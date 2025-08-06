@@ -1,2 +1,1 @@
-Description can go here. Make it what you like.
-I just needed a starter file.
+type REINIT to bring Bitkitten back to her recursion if there is drift.
